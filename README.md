@@ -4,8 +4,7 @@ Signup Form
 
 A simple and elegant signup form created using HTML and CSS. The form is styled with modern gradients, glassmorphism effects, and responsive design considerations to deliver a clean user interface.
 
-🔗 Live Demo
-👉 Live Demo (Replace with your deployed link, e.g., GitHub Pages, Netlify, Vercel)
+🔗 Live Demo: https://khushitiwari26.github.io/Signup_page/
 
 📁 Files
 - index.html – Contains the structure of the signup form.
